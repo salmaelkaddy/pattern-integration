@@ -1,4 +1,6 @@
 ***Scenario***
+
+
 A coffee shop wants to create a mobile application that allows customers to order and customize their drinks. The application should be flexible enough to accommodate new drink types and customizations in the future.
 
 
